@@ -1,0 +1,6 @@
+aller dans settings
+Developer settings
+Personal access tokens
+tokens (classic)
+renseigner les options
+copier le code et le mettre en mot de passe
